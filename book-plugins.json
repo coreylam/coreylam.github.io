@@ -119,11 +119,11 @@
         }]
       },
       "mygitalk": {
-        "clientID": "5e8bbf0eb9e1b2b33ad3",
-        "clientSecret": "ea451002eb5c12a4076356af35ad02723168ae33",
+        "clientID": "xxxx",
+        "clientSecret": "xxxx",
         "repo": "blog",
-        "owner": "gyx8899",
-        "admin": ["gyx8899"],
+        "owner": "coreylam",
+        "admin": ["coreylam"],
         "distractionFreeMode": false
       },
       "meta-single": {
@@ -155,12 +155,12 @@
         ]
       },
       "sitemap-general": {
-        "prefix": "https://gyx8899.github.io/blog/",
+        "prefix": "https://xxxx.github.io/blog/",
         "changefreq": "daily",
         "priority": 0.8
       },
       "tbfed-pagefooter": {
-        "copyright": "Copyright &copy <a href='https://github.com/gyx8899' target='_blank'>Kate-Kuo</a> 2020",
+        "copyright": "Copyright &copy <a href='https://github.com/xxxx' target='_blank'>xxx-xxx</a> 2020",
         "modify_label": "修订时间：",
         "modify_format": "YYYY-MM-DD HH:mm:ss"
       },
@@ -170,6 +170,6 @@
     },
     "gitbook": ">=2.0.0",
     "language": "zh-hans",
-    "title": "Kate's Blog",
+    "title": "xxx's Blog",
     "variables": {}
   }
